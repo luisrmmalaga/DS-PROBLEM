@@ -19,13 +19,15 @@ Antes de comenzar, asegúrate de cumplir los siguientes requisitos:
 
 ## Backend
 
-### Install Dependencies
-
-Para instalar las dependencias de Python necesarias para este proyecto, ejecuta el siguiente comando estando dentro del directorio Backend:
+Para arrancar el entorno virtual hace falta ejecutar el siguiente comando:
 
 ```bash
 <path>\DS-PROBLEM\Backend\venv\Scripts\Activate.ps1
 ```
+
+### Install Dependencies
+
+Para instalar las dependencias de Python necesarias para este proyecto, ejecuta el siguiente comando estando dentro del directorio Backend:
 
 ```bash
 pip install -r requirements.txt
